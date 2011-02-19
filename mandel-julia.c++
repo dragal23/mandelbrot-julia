@@ -13,7 +13,7 @@
 #include <tclap/CmdLine.h>
 #include <algorithm>
 #include <typeinfo>
-#include "iteration_result.h++"
+#include "results.h++"
 
 using namespace std;
 using namespace Magick;

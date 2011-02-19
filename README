@@ -1,0 +1,11 @@
+mandel-julia is a program to generate Mandelbrot and Julia sets. It is
+a purely command line program at the moment, but I may build a front
+end for it eventually.
+
+It is written in C++ for speed.
+
+At them moment it is somewhat broken as I got halfway through a major
+redesign before deciding to start using github. Hopefully progress
+will be made rapidly and working snapshots will become available.
+
+
